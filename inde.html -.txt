@@ -125,7 +125,7 @@
   // === ЗАМЕНИТЕ ЭТОТ МАССИВ НА СВОИ РЕАЛЬНЫЕ URL ===
   const photoData = [
     // Пример:
-    // { back: "/cover.jpg", front: "https://yourdomain.com/photos/1.jpg" },
+    // { back: "/cover.jpg", front: "https://i.ibb.co/d4JqyNS1/1.jpg" alt="фото1" " },
     // { back: "/cover.jpg", front: "https://yourdomain.com/photos/2.jpg" }
   ];
 
@@ -189,4 +189,5 @@
 </script>
 
 </body>
+
 </html>
